@@ -1,4 +1,4 @@
-# 📝 Customer Review Classification using Deep Learning
+# 📝 Persian-Product-Title-Categorization
 
 <p align="center">
   <img src="images/project_banner.png" width="100%">
@@ -209,7 +209,7 @@ customer-review-classification/
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/moeinalva/customer-review-classification.git
+git clone https://github.com/moeinalva/Persian-Product-Title-Categorization.git
 ```
 
 ```bash
